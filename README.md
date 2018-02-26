@@ -1,5 +1,5 @@
 # Mini_ex_3
-![Throbber] (https://github.com/IdaBrauner/Mini_ex_3/blob/master/Wheel.jpg)
+![ScreenShot] (https://github.com/IdaBrauner/Mini_ex_3/blob/master/Wheel.jpg)
 
 https://rawgit.com/IdaBrauner/Mini_ex_3/master/mini_Ex_3/empty-example/index.html
 For this mini_ex we had to make a throbber and think about temporality in digital culture. I class and in the text that we've read, we discussed the waiting time there is, when you're using software and how that time is considered "wasted". However the waiting time can also give the user an impression that the work is being done more thourough than if there was no waiting time.
